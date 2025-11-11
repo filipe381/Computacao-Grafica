@@ -1,0 +1,17 @@
+1
+O olho humano percebe cor principalmente via três tipos de cones sensíveis a comprimentos de onda curtos , médios  e longos , cuja combinação permite codificar um amplo espectro cromático em luminâncias fotópicas.​
+Cones captam cor e alta acuidade em luz moderada/forte, enquanto bastonetes captam luminosidade em baixa luz; essa divisão explica por que a visão noturna é pouco colorida.​
+Sinais dos cones S/M/L são combinados em canais oponentes no sistema visual, sustentando a tricromacia e fenômenos como pós‑imagem por adaptação neural.​
+
+2
+RGB é um modelo aditivo de luz para telas, em que emissões de vermelho, verde e azul combinam para formar cores, sendo apropriado para monitores, TVs e interfaces digitais.​
+CMYK é um modelo subtrativo de tintas para impressão, em que ciano, magenta, amarelo e preto absorvem luz refletida do papel, adequado a revistas, pôsteres e embalagens.​
+A escolha correta por meio evita discrepâncias de gamut e garante previsibilidade de cor no pipeline de produção.​
+
+3
+Aditiva: mistura de luzes de diferentes cores soma comprimentos de onda percebidos; mais luz adicionada aproxima o resultado do branco, típico de projetores e telas.​
+Subtrativa: mistura de pigmentos remove fatias do espectro refletido; mais pigmento resulta em menos reflexão e aproximação do preto, típico de pintura e impressão.​
+Em termos práticos, RGB em displays usa adição de luz, enquanto CMYK em impressoras usa subtração de luz refletida, o que explica diferenças visuais entre tela e papel.
+
+​4
+SV/HSI são populares em sensoriamento remoto para separar tonalidade, saturação e brilho, auxiliando em tarefas como detecção de sombras e normalização de iluminação em imagens multiespectrais
