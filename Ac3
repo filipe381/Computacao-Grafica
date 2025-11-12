@@ -13,5 +13,4 @@ Aditiva: mistura de luzes de diferentes cores soma comprimentos de onda percebid
 Subtrativa: mistura de pigmentos remove fatias do espectro refletido; mais pigmento resulta em menos reflexão e aproximação do preto, típico de pintura e impressão.​
 Em termos práticos, RGB em displays usa adição de luz, enquanto CMYK em impressoras usa subtração de luz refletida, o que explica diferenças visuais entre tela e papel.
 
-​4
-SV/HSI são populares em sensoriamento remoto para separar tonalidade, saturação e brilho, auxiliando em tarefas como detecção de sombras e normalização de iluminação em imagens multiespectrais
+​
